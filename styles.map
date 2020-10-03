@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"scss/styles.scss"
+	],
+	"sourcesContent": [
+		".cards {\n    &__heading {\n    }\n    \n    &__card {\n\n    }\n}"
+	],
+	"names": [],
+	"mappings": ""
+}

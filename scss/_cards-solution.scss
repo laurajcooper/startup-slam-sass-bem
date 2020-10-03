@@ -1,0 +1,25 @@
+.cards {
+    display: flex;
+
+    .card {
+        flex: 1 1 0;
+        border: 1px solid black;
+
+        &__heading {
+            color: red;
+        }
+        
+        &__content {
+            margin: 30px 0;
+        }
+
+        &__button {
+            background-color: lightpink;
+
+            &--highlighted {
+                background-color: darkred;
+                color: white;
+            }
+        }
+    }
+}

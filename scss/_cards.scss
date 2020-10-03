@@ -1,0 +1,27 @@
+/* Remove the css comment tags ( / * , * / ) and convert to nested styles
+.cards {
+    display: flex;
+}
+
+.cards .card {
+    flex: 1 1 0;
+    border: 1px solid black;
+}
+
+.cards .card__heading {
+    color: red;
+}
+        
+.cards .card__content {
+    margin: 30px 0;
+}
+
+.cards .card__button {
+    background-color: lightpink;
+}
+
+.cards .card__button--highlighted {
+    background-color: darkred;
+    color: white;
+} 
+*/
