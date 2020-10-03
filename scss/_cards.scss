@@ -1,4 +1,6 @@
-/* Remove the css comment tags ( / * , * / ) and convert to nested styles
+/* Remove the css comment tags around the style rules and convert to nested structure */
+
+/*
 .cards {
     display: flex;
 }
